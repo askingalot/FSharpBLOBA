@@ -42,7 +42,7 @@
     <Reference Include="System.Numerics" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ticket.fs" />
+    <Compile Include="TicketRepository.fs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Model\Model.fsproj">
